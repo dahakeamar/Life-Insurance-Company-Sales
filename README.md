@@ -4,7 +4,7 @@
 This project showcases a comprehensive Excel dashboard designed for a life insurance company to analyze and monitor sales performance across different dimensions such as gender, region, product type, and policy status. The dataset used in this project was sample-generated using ChatGPT to simulate real-life sales data.
 
 ### Dataset Description
-The raw dataset includes the following columns:
+The raw dataset includes the following columns :
 
 - Cust Name
 
